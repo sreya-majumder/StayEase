@@ -1,0 +1,26 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.h-font{
+    font-family: 'Merienda', cursive;
+}
+.custom-bg{
+    background-color: #07e26a;
+    border-color: 1px solid #07e26a;
+}
+.custom-hover{
+    background-color: #29c483;
+    border-color: 1px solid #07e26a;
+}
+
+.custom-alert{
+    position:fixed;
+    top: 80px;
+    right:25px;
+}
+
+#dashboard-menu{
+    position: fixed;
+    height:100%;
+}
+

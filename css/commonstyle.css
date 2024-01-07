@@ -1,0 +1,26 @@
+:root{
+    --teal : #09a426;
+    --teal_hover : #0c9a5e;
+}
+
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.h-font{
+    font-family: 'Merienda', cursive;
+}
+.custom-bg{
+    background-color: var(--teal);
+    border-color: 1px solid var(--teal);
+}
+.custom-hover{
+    background-color: var(--teal_hover);
+    border-color: 1px solid var(--teal_hover);
+}
+
+.h-line{
+    width : 150px;
+    margin : 0 auto;
+    height : 1.5 px;
+}
